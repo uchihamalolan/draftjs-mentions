@@ -1,4 +1,4 @@
-# draftjs-mentions
+# draftjs-mentionsd
 A POC for Implementing mentions with DraftJS &amp; DraftJS Plugins. (Including storing and fetching from server with the same state)
 
 ## Uses the Following
